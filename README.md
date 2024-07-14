@@ -4,9 +4,9 @@ Made with SwiftUI
 using XCode 15.4
 
 ## Screenshots
-![No selection](screenshots%noselection.png))
+![noselection.png](screenshots/noselection.png)
 
 <br>
 
-![Movie selected](screenshots%selected.png))
+![selected.png](screenshots/selected.png)
 
